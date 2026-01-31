@@ -104,7 +104,7 @@ The dashboard is built using the following columns:
 ---
 
 ## 👤 Author
-**Pratik Banarse**  
+**Tanvi Bramhankar**  
 📊 Aspiring Data Analyst | Power BI Developer  
 
 ## Dashboard Screenshot
