@@ -106,9 +106,3 @@ The dashboard is built using the following columns:
 ## 👤 Author
 **Tanvi Bramhankar**  
 📊 Aspiring Data Analyst | Power BI Developer  
-
-## Dashboard Screenshot
-![Uploading Screenshot 2026-01-09 133255.png…]()
-
-
-
